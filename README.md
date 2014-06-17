@@ -25,10 +25,9 @@ Func)
 - CGroups
 - etcd
 - systemd
-
 - Monitoring
--- System (e.g: Zabbix) [?adsk]
--- Application (e.g: Newrelic) [?adsk]
+ - System (e.g: Zabbix) [?adsk]
+ - Application (e.g: Newrelic) [?adsk]
 
 TODO [adsk]
 - Vagrant windows
