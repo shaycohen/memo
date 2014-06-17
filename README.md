@@ -20,7 +20,6 @@ Cobbler
 Func)
 - Quattor
 - Rundeck [?adsk]
---
 - LXC
 - CoreOS
 - CGroups
@@ -30,9 +29,7 @@ Func)
 - Monitoring
 -- System (e.g: Zabbix) [?adsk]
 -- Application (e.g: Newrelic) [?adsk]
--- 
 
 TODO [adsk]
 - Vagrant windows
 - Provision Tomcat on windows (or find a 'quick-fix' for servifying AcReadEx.exe calls)
-- 
